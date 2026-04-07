@@ -1,0 +1,15 @@
+# uv / Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# OS
+.DS_Store
+Thumbs.db

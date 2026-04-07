@@ -1,0 +1,2325 @@
+WARNING:tensorflow:SavedModel saved prior to TF 2.5 detected when loading Keras model. Please ensure that you are saving the model with model.save() or tf.keras.models.save_model(), *NOT* tf.saved_model.save(). To confirm, there should be a file named "keras_metadata.pb" in the SavedModel directory.
+WARNING:tensorflow:SavedModel saved prior to TF 2.5 detected when loading Keras model. Please ensure that you are saving the model with model.save() or tf.keras.models.save_model(), *NOT* tf.saved_model.save(). To confirm, there should be a file named "keras_metadata.pb" in the SavedModel directory.
+WARNING:tensorflow:No training configuration found in save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:SavedModel saved prior to TF 2.5 detected when loading Keras model. Please ensure that you are saving the model with model.save() or tf.keras.models.save_model(), *NOT* tf.saved_model.save(). To confirm, there should be a file named "keras_metadata.pb" in the SavedModel directory.
+WARNING:tensorflow:No training configuration found in save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:SavedModel saved prior to TF 2.5 detected when loading Keras model. Please ensure that you are saving the model with model.save() or tf.keras.models.save_model(), *NOT* tf.saved_model.save(). To confirm, there should be a file named "keras_metadata.pb" in the SavedModel directory.
+GPU check:  [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+Analysing DUT 111244 in campaign Production_LD_300_March24.
+
+  Loaded model from C:\Users\HexaScan_AI_user\Desktop\HexaScan_withAI\CNNs\class_cnn_clean_fl_epoch_18_2022-11-03
+Threshold set to 0.3.
+  Loaded encoder model from C:\Users\HexaScan_AI_user\Desktop\HexaScan_withAI\CNNs\AE3_v2_277_epochs_encoder
+  Loaded decoder model from C:\Users\HexaScan_AI_user\Desktop\HexaScan_withAI\CNNs\AE3_v2_277_epochs_decoder
+  Loaded model from C:\Users\HexaScan_AI_user\Desktop\HexaScan_withAI\CNNs\br_cnn_v3
+Step 1:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  9.12550663948059
+Preliminary deletion of initial scan image at step 1.
+Step 2:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8041772842407227
+Preliminary deletion of initial scan image at step 2.
+Step 3:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8004796504974365
+Preliminary deletion of initial scan image at step 3.
+Step 4:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7984035015106201
+Preliminary deletion of initial scan image at step 4.
+Step 5:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.803776741027832
+Step 6:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8006486892700195
+Step 7:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8023931980133057
+Step 8:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8033902645111084
+Preliminary deletion of initial scan image at step 8.
+Step 9:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8019325733184814
+Preliminary deletion of initial scan image at step 9.
+Step 10:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8019962310791016
+Preliminary deletion of initial scan image at step 10.
+Step 11:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8109915256500244
+Step 12:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8015592098236084
+Preliminary deletion of initial scan image at step 12.
+Step 13:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.800666332244873
+Preliminary deletion of initial scan image at step 13.
+Step 14:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7981405258178711
+Step 15:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.799126148223877
+Step 16:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7967238426208496
+Step 17:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7994616031646729
+Preliminary deletion of initial scan image at step 17.
+Step 18:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7968170642852783
+Preliminary deletion of initial scan image at step 18.
+Step 19:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7994742393493652
+Preliminary deletion of initial scan image at step 19.
+Step 20:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8017199039459229
+Step 21:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8008286952972412
+Preliminary deletion of initial scan image at step 21.
+Step 22:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8018102645874023
+Step 23:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8016715049743652
+Step 24:
+Anomaly detected in image: annotated image will be saved to C:\Users\HexaScan_AI_user\Desktop\HexaScan_withAI\outputs\Production_LD_300_March24\111244\annotated_image_pad9_step24, please check.
+
+Annotation index: 
+ [44]
+Evaluation time:  1.2775843143463135
+Preliminary deletion of initial scan image at step 24.
+Step 25:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.798090934753418
+Preliminary deletion of initial scan image at step 25.
+Step 26:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8031129837036133
+Preliminary deletion of initial scan image at step 26.
+Step 27:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7989633083343506
+Step 28:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8029356002807617
+Preliminary deletion of initial scan image at step 28.
+Step 29:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8002719879150391
+Preliminary deletion of initial scan image at step 29.
+Step 30:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8032021522521973
+Step 31:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7994065284729004
+Preliminary deletion of initial scan image at step 31.
+Step 32:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7950797080993652
+Step 33:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7967081069946289
+Step 34:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7998998165130615
+Preliminary deletion of initial scan image at step 34.
+Step 35:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8069953918457031
+Preliminary deletion of initial scan image at step 35.
+Step 36:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7956404685974121
+Preliminary deletion of initial scan image at step 36.
+Step 37:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.793328046798706
+Preliminary deletion of initial scan image at step 37.
+Step 38:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7939565181732178
+Step 39:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7976274490356445
+Preliminary deletion of initial scan image at step 39.
+Step 40:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8043124675750732
+Preliminary deletion of initial scan image at step 40.
+Step 41:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.79551100730896
+Step 42:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8017942905426025
+Preliminary deletion of initial scan image at step 42.
+Step 43:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.797755241394043
+Step 44:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7971460819244385
+Preliminary deletion of initial scan image at step 44.
+Step 45:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8007044792175293
+Step 46:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8013341426849365
+Preliminary deletion of initial scan image at step 46.
+Step 47:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7950272560119629
+Preliminary deletion of initial scan image at step 47.
+Step 48:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7988584041595459
+Preliminary deletion of initial scan image at step 48.
+Step 49:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7978928089141846
+Preliminary deletion of initial scan image at step 49.
+Step 50:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8001117706298828
+Step 51:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7937262058258057
+Preliminary deletion of initial scan image at step 51.
+Step 52:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8026976585388184
+Preliminary deletion of initial scan image at step 52.
+Step 53:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7930445671081543
+Preliminary deletion of initial scan image at step 53.
+Step 54:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8007032871246338
+Preliminary deletion of initial scan image at step 54.
+Step 55:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7998666763305664
+Preliminary deletion of initial scan image at step 55.
+Step 56:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7983214855194092
+Preliminary deletion of initial scan image at step 56.
+Step 57:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7990009784698486
+Step 58:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8006401062011719
+Step 59:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8049972057342529
+Step 60:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7987053394317627
+Preliminary deletion of initial scan image at step 60.
+Step 61:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8008377552032471
+Preliminary deletion of initial scan image at step 61.
+Step 62:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8025054931640625
+Step 63:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7994649410247803
+Preliminary deletion of initial scan image at step 63.
+Step 64:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7974128723144531
+Preliminary deletion of initial scan image at step 64.
+Step 65:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.799030065536499
+Step 66:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7970232963562012
+Preliminary deletion of initial scan image at step 66.
+Step 67:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7952060699462891
+Step 68:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8007955551147461
+Preliminary deletion of initial scan image at step 68.
+Step 69:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.797562837600708
+Step 70:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8010330200195312
+Preliminary deletion of initial scan image at step 70.
+Step 71:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7980992794036865
+Preliminary deletion of initial scan image at step 71.
+Step 72:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.799837589263916
+Step 73:
+Evaluation with grid 2.
+GRID 2: Anomaly detected in image: annotated image will be saved to C:\Users\HexaScan_AI_user\Desktop\HexaScan_withAI\outputs\Production_LD_300_March24\111244\annotated_image_pad34_step73, please check.
+
+Annotation index: 
+ [354]
+Evaluation time:  1.5793664455413818
+Step 74:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7999978065490723
+Preliminary deletion of initial scan image at step 74.
+Step 75:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8032469749450684
+Preliminary deletion of initial scan image at step 75.
+Step 76:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8010220527648926
+Preliminary deletion of initial scan image at step 76.
+Step 77:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.798945426940918
+Preliminary deletion of initial scan image at step 77.
+Step 78:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8028049468994141
+Step 79:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8008248805999756
+Preliminary deletion of initial scan image at step 79.
+Step 80:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.808988094329834
+Step 81:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7992980480194092
+Preliminary deletion of initial scan image at step 81.
+Step 82:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7984862327575684
+Preliminary deletion of initial scan image at step 82.
+Step 83:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8015317916870117
+Preliminary deletion of initial scan image at step 83.
+Step 84:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8024818897247314
+Step 85:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8010616302490234
+Preliminary deletion of initial scan image at step 85.
+Step 86:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7970840930938721
+Preliminary deletion of initial scan image at step 86.
+Step 87:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7990787029266357
+Preliminary deletion of initial scan image at step 87.
+Step 88:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8010363578796387
+Preliminary deletion of initial scan image at step 88.
+Step 89:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7992134094238281
+Preliminary deletion of initial scan image at step 89.
+Step 90:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7995927333831787
+Preliminary deletion of initial scan image at step 90.
+Step 91:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7987115383148193
+Step 92:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8008460998535156
+Preliminary deletion of initial scan image at step 92.
+Step 93:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7987797260284424
+Preliminary deletion of initial scan image at step 93.
+Step 94:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7995870113372803
+Preliminary deletion of initial scan image at step 94.
+Step 95:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7997739315032959
+Preliminary deletion of initial scan image at step 95.
+Step 96:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8022336959838867
+Preliminary deletion of initial scan image at step 96.
+Step 97:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8010251522064209
+Preliminary deletion of initial scan image at step 97.
+Step 98:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7972531318664551
+Preliminary deletion of initial scan image at step 98.
+Step 99:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7998001575469971
+Step 100:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7990684509277344
+Step 101:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7987122535705566
+Step 102:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7967796325683594
+Preliminary deletion of initial scan image at step 102.
+Step 103:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8009953498840332
+Preliminary deletion of initial scan image at step 103.
+Step 104:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8034930229187012
+Preliminary deletion of initial scan image at step 104.
+Step 105:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8008599281311035
+Preliminary deletion of initial scan image at step 105.
+Step 106:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8012876510620117
+Step 107:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8014588356018066
+Preliminary deletion of initial scan image at step 107.
+Step 108:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8032288551330566
+Preliminary deletion of initial scan image at step 108.
+Step 109:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8017191886901855
+Step 110:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.801403284072876
+Step 111:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8006830215454102
+Step 112:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8050551414489746
+Step 113:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.80987548828125
+Preliminary deletion of initial scan image at step 113.
+Step 114:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8052985668182373
+Preliminary deletion of initial scan image at step 114.
+Step 115:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8029217720031738
+Preliminary deletion of initial scan image at step 115.
+Step 116:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7985224723815918
+Preliminary deletion of initial scan image at step 116.
+Step 117:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8033201694488525
+Preliminary deletion of initial scan image at step 117.
+Step 118:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8047630786895752
+Step 119:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8030016422271729
+Preliminary deletion of initial scan image at step 119.
+Step 120:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8009581565856934
+Preliminary deletion of initial scan image at step 120.
+Step 121:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8066980838775635
+Preliminary deletion of initial scan image at step 121.
+Step 122:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8025259971618652
+Preliminary deletion of initial scan image at step 122.
+Step 123:
+Anomaly detected in image: annotated image will be saved to C:\Users\HexaScan_AI_user\Desktop\HexaScan_withAI\outputs\Production_LD_300_March24\111244\annotated_image_pad56_step123, please check.
+
+Annotation index: 
+ [189]
+Evaluation time:  1.2765989303588867
+Preliminary deletion of initial scan image at step 123.
+Step 124:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7964966297149658
+Step 125:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8113851547241211
+Step 126:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8028907775878906
+Preliminary deletion of initial scan image at step 126.
+Step 127:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.802314043045044
+Preliminary deletion of initial scan image at step 127.
+Step 128:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8005425930023193
+Preliminary deletion of initial scan image at step 128.
+Step 129:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8024430274963379
+Step 130:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7990908622741699
+Preliminary deletion of initial scan image at step 130.
+Step 131:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8036208152770996
+Preliminary deletion of initial scan image at step 131.
+Step 132:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8076705932617188
+Step 133:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8026943206787109
+Step 134:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8042092323303223
+Preliminary deletion of initial scan image at step 134.
+Step 135:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8037009239196777
+Preliminary deletion of initial scan image at step 135.
+Step 136:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.805194616317749
+Preliminary deletion of initial scan image at step 136.
+Step 137:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.801133394241333
+Preliminary deletion of initial scan image at step 137.
+Step 138:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8014233112335205
+Preliminary deletion of initial scan image at step 138.
+Step 139:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8020999431610107
+Preliminary deletion of initial scan image at step 139.
+Step 140:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.799227237701416
+Preliminary deletion of initial scan image at step 140.
+Step 141:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.805626392364502
+Preliminary deletion of initial scan image at step 141.
+Step 142:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8067953586578369
+Step 143:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8051390647888184
+Preliminary deletion of initial scan image at step 143.
+Step 144:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7991223335266113
+Preliminary deletion of initial scan image at step 144.
+Step 145:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8027055263519287
+Step 146:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8033592700958252
+Step 147:
+Anomaly detected in image: annotated image will be saved to C:\Users\HexaScan_AI_user\Desktop\HexaScan_withAI\outputs\Production_LD_300_March24\111244\annotated_image_pad72_step147, please check.
+
+Annotation index: 
+ [110]
+Evaluation time:  1.2740373611450195
+Preliminary deletion of initial scan image at step 147.
+Step 148:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7981052398681641
+Preliminary deletion of initial scan image at step 148.
+Step 149:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7993252277374268
+Step 150:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.80607008934021
+Step 151:
+Evaluation with grid 2.
+GRID 2: Anomaly detected in image: annotated image will be saved to C:\Users\HexaScan_AI_user\Desktop\HexaScan_withAI\outputs\Production_LD_300_March24\111244\annotated_image_pad68_step151, please check.
+
+Annotation index: 
+ [23]
+Evaluation time:  1.579437017440796
+Preliminary deletion of initial scan image at step 151.
+Step 152:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8015196323394775
+Step 153:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.811455488204956
+Step 154:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8061776161193848
+Preliminary deletion of initial scan image at step 154.
+Step 155:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8030686378479004
+Preliminary deletion of initial scan image at step 155.
+Step 156:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8045773506164551
+Step 157:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8026933670043945
+Preliminary deletion of initial scan image at step 157.
+Step 158:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8046653270721436
+Preliminary deletion of initial scan image at step 158.
+Step 159:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.802426815032959
+Step 160:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8068151473999023
+Preliminary deletion of initial scan image at step 160.
+Step 161:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8068420886993408
+Preliminary deletion of initial scan image at step 161.
+Step 162:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8012614250183105
+Preliminary deletion of initial scan image at step 162.
+Step 163:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8043904304504395
+Preliminary deletion of initial scan image at step 163.
+Step 164:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8025386333465576
+Preliminary deletion of initial scan image at step 164.
+Step 165:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8024821281433105
+Step 166:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8017191886901855
+Preliminary deletion of initial scan image at step 166.
+Step 167:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8046987056732178
+Preliminary deletion of initial scan image at step 167.
+Step 168:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.802588701248169
+Step 169:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8030116558074951
+Step 170:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8041088581085205
+Preliminary deletion of initial scan image at step 170.
+Step 171:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7988691329956055
+Preliminary deletion of initial scan image at step 171.
+Step 172:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8044798374176025
+Step 173:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8093879222869873
+Preliminary deletion of initial scan image at step 173.
+Step 174:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8011918067932129
+Step 175:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8028998374938965
+Preliminary deletion of initial scan image at step 175.
+Step 176:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8007080554962158
+Step 177:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8024911880493164
+Preliminary deletion of initial scan image at step 177.
+Step 178:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8026647567749023
+Preliminary deletion of initial scan image at step 178.
+Step 179:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8094172477722168
+Preliminary deletion of initial scan image at step 179.
+Step 180:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.806696891784668
+Step 181:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8067398071289062
+Preliminary deletion of initial scan image at step 181.
+Step 182:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7997543811798096
+Step 183:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8049533367156982
+Preliminary deletion of initial scan image at step 183.
+Step 184:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.806934118270874
+Preliminary deletion of initial scan image at step 184.
+Step 185:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8008654117584229
+Step 186:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8075342178344727
+Preliminary deletion of initial scan image at step 186.
+Step 187:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8070805072784424
+Preliminary deletion of initial scan image at step 187.
+Step 188:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8053138256072998
+Preliminary deletion of initial scan image at step 188.
+Step 189:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8092074394226074
+Preliminary deletion of initial scan image at step 189.
+Step 190:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8027269840240479
+Step 191:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8067214488983154
+Step 192:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8077349662780762
+Preliminary deletion of initial scan image at step 192.
+Step 193:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8110849857330322
+Preliminary deletion of initial scan image at step 193.
+Step 194:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8030693531036377
+Preliminary deletion of initial scan image at step 194.
+Step 195:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8059232234954834
+Preliminary deletion of initial scan image at step 195.
+Step 196:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8028841018676758
+Preliminary deletion of initial scan image at step 196.
+Step 197:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8050827980041504
+Preliminary deletion of initial scan image at step 197.
+Step 198:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8027389049530029
+Preliminary deletion of initial scan image at step 198.
+Step 199:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.7997519969940186
+Preliminary deletion of initial scan image at step 199.
+Step 200:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8003108501434326
+Preliminary deletion of initial scan image at step 200.
+Step 201:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8099880218505859
+Preliminary deletion of initial scan image at step 201.
+Step 202:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8051471710205078
+Step 203:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8010926246643066
+Step 204:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8023891448974609
+Preliminary deletion of initial scan image at step 204.
+Step 205:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8014416694641113
+Preliminary deletion of initial scan image at step 205.
+Step 206:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8070282936096191
+Step 207:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8089983463287354
+Step 208:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8030107021331787
+Preliminary deletion of initial scan image at step 208.
+Step 209:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8113408088684082
+Step 210:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8095133304595947
+Step 211:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8072853088378906
+Preliminary deletion of initial scan image at step 211.
+Step 212:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8057973384857178
+Preliminary deletion of initial scan image at step 212.
+Step 213:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8026413917541504
+Preliminary deletion of initial scan image at step 213.
+Step 214:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8067209720611572
+Step 215:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8124773502349854
+Preliminary deletion of initial scan image at step 215.
+Step 216:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8122720718383789
+Step 217:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8030040264129639
+Preliminary deletion of initial scan image at step 217.
+Step 218:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8069803714752197
+Preliminary deletion of initial scan image at step 218.
+Step 219:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8084425926208496
+Preliminary deletion of initial scan image at step 219.
+Step 220:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8028011322021484
+Preliminary deletion of initial scan image at step 220.
+Step 221:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8081564903259277
+Preliminary deletion of initial scan image at step 221.
+Step 222:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8036999702453613
+Preliminary deletion of initial scan image at step 222.
+Step 223:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8095073699951172
+Step 224:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8129458427429199
+Preliminary deletion of initial scan image at step 224.
+Step 225:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8106675148010254
+Step 226:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8065147399902344
+Step 227:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8049499988555908
+Preliminary deletion of initial scan image at step 227.
+Step 228:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8070087432861328
+Preliminary deletion of initial scan image at step 228.
+Step 229:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8067584037780762
+Preliminary deletion of initial scan image at step 229.
+Step 230:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8077199459075928
+Preliminary deletion of initial scan image at step 230.
+Step 231:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8112092018127441
+Preliminary deletion of initial scan image at step 231.
+Step 232:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8110666275024414
+Preliminary deletion of initial scan image at step 232.
+Step 233:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8074703216552734
+Preliminary deletion of initial scan image at step 233.
+Step 234:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8035380840301514
+Preliminary deletion of initial scan image at step 234.
+Step 235:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.804715633392334
+Step 236:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8051176071166992
+Preliminary deletion of initial scan image at step 236.
+Step 237:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8167400360107422
+Step 238:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8097331523895264
+Step 239:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8052225112915039
+Preliminary deletion of initial scan image at step 239.
+Step 240:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8046560287475586
+Step 241:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8045687675476074
+Preliminary deletion of initial scan image at step 241.
+Step 242:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8111977577209473
+Preliminary deletion of initial scan image at step 242.
+Step 243:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8026151657104492
+Preliminary deletion of initial scan image at step 243.
+Step 244:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8114607334136963
+Preliminary deletion of initial scan image at step 244.
+Step 245:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8153266906738281
+Step 246:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8072590827941895
+Preliminary deletion of initial scan image at step 246.
+Step 247:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8030791282653809
+Preliminary deletion of initial scan image at step 247.
+Step 248:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8047020435333252
+Preliminary deletion of initial scan image at step 248.
+Step 249:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.804943323135376
+Preliminary deletion of initial scan image at step 249.
+Step 250:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8043098449707031
+Preliminary deletion of initial scan image at step 250.
+Step 251:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.804492712020874
+Step 252:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8046972751617432
+Preliminary deletion of initial scan image at step 252.
+Step 253:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8039510250091553
+Preliminary deletion of initial scan image at step 253.
+Step 254:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8040957450866699
+Preliminary deletion of initial scan image at step 254.
+Step 255:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8080086708068848
+Step 256:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8026959896087646
+Preliminary deletion of initial scan image at step 256.
+Step 257:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8018476963043213
+Preliminary deletion of initial scan image at step 257.
+Step 258:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8029558658599854
+Preliminary deletion of initial scan image at step 258.
+Step 259:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8055949211120605
+Preliminary deletion of initial scan image at step 259.
+Step 260:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.802365779876709
+Step 261:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.800940752029419
+Preliminary deletion of initial scan image at step 261.
+Step 262:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8051857948303223
+Preliminary deletion of initial scan image at step 262.
+Step 263:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8048267364501953
+Step 264:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8057267665863037
+Preliminary deletion of initial scan image at step 264.
+Step 265:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8056151866912842
+Preliminary deletion of initial scan image at step 265.
+Step 266:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8090615272521973
+Preliminary deletion of initial scan image at step 266.
+Step 267:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8027729988098145
+Preliminary deletion of initial scan image at step 267.
+Step 268:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8031890392303467
+Preliminary deletion of initial scan image at step 268.
+Step 269:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8042728900909424
+Preliminary deletion of initial scan image at step 269.
+Step 270:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8027400970458984
+Step 271:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8087985515594482
+Preliminary deletion of initial scan image at step 271.
+Step 272:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8027968406677246
+Preliminary deletion of initial scan image at step 272.
+Step 273:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8027095794677734
+Preliminary deletion of initial scan image at step 273.
+Step 274:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8048045635223389
+Preliminary deletion of initial scan image at step 274.
+Step 275:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8055808544158936
+Preliminary deletion of initial scan image at step 275.
+Step 276:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8053853511810303
+Preliminary deletion of initial scan image at step 276.
+Step 277:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8027315139770508
+Preliminary deletion of initial scan image at step 277.
+Step 278:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8060052394866943
+Preliminary deletion of initial scan image at step 278.
+Step 279:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8091280460357666
+Preliminary deletion of initial scan image at step 279.
+Step 280:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8064827919006348
+Preliminary deletion of initial scan image at step 280.
+Step 281:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8027634620666504
+Preliminary deletion of initial scan image at step 281.
+Step 282:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8062303066253662
+Preliminary deletion of initial scan image at step 282.
+Step 283:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.805633544921875
+Preliminary deletion of initial scan image at step 283.
+Step 284:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.804903507232666
+Step 285:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8036026954650879
+Preliminary deletion of initial scan image at step 285.
+Step 286:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8027594089508057
+Step 287:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8029541969299316
+Preliminary deletion of initial scan image at step 287.
+Step 288:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8086867332458496
+Preliminary deletion of initial scan image at step 288.
+Step 289:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8083064556121826
+Step 290:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8089592456817627
+Preliminary deletion of initial scan image at step 290.
+Step 291:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8029685020446777
+Step 292:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8068432807922363
+Step 293:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8048269748687744
+Preliminary deletion of initial scan image at step 293.
+Step 294:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8046984672546387
+Preliminary deletion of initial scan image at step 294.
+Step 295:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8055553436279297
+Step 296:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8031947612762451
+Preliminary deletion of initial scan image at step 296.
+Step 297:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8085918426513672
+Preliminary deletion of initial scan image at step 297.
+Step 298:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.81105637550354
+Step 299:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.805121898651123
+Preliminary deletion of initial scan image at step 299.
+Step 300:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8068721294403076
+Step 301:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8092420101165771
+Step 302:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8065717220306396
+Preliminary deletion of initial scan image at step 302.
+Step 303:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8070826530456543
+Preliminary deletion of initial scan image at step 303.
+Step 304:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8058938980102539
+Preliminary deletion of initial scan image at step 304.
+Step 305:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.801783561706543
+Preliminary deletion of initial scan image at step 305.
+Step 306:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8069956302642822
+Preliminary deletion of initial scan image at step 306.
+Step 307:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.804729700088501
+Preliminary deletion of initial scan image at step 307.
+Step 308:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.805588960647583
+Preliminary deletion of initial scan image at step 308.
+Step 309:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8037691116333008
+Preliminary deletion of initial scan image at step 309.
+Step 310:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8031656742095947
+Step 311:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8015947341918945
+Preliminary deletion of initial scan image at step 311.
+Step 312:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.806699275970459
+Step 313:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.803905725479126
+Step 314:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8057458400726318
+Preliminary deletion of initial scan image at step 314.
+Step 315:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8012106418609619
+Preliminary deletion of initial scan image at step 315.
+Step 316:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8014841079711914
+Preliminary deletion of initial scan image at step 316.
+Step 317:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8054614067077637
+Preliminary deletion of initial scan image at step 317.
+Step 318:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8056361675262451
+Step 319:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8037312030792236
+Step 320:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8015587329864502
+Step 321:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8048226833343506
+Preliminary deletion of initial scan image at step 321.
+Step 322:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8053843975067139
+Preliminary deletion of initial scan image at step 322.
+Step 323:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.804739236831665
+Preliminary deletion of initial scan image at step 323.
+Step 324:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8016800880432129
+Step 325:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8047168254852295
+Preliminary deletion of initial scan image at step 325.
+Step 326:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8031845092773438
+Preliminary deletion of initial scan image at step 326.
+Step 327:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8067569732666016
+Preliminary deletion of initial scan image at step 327.
+Step 328:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.806145191192627
+Preliminary deletion of initial scan image at step 328.
+Step 329:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8049743175506592
+Preliminary deletion of initial scan image at step 329.
+Step 330:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8108572959899902
+Step 331:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8072161674499512
+Preliminary deletion of initial scan image at step 331.
+Step 332:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8043756484985352
+Preliminary deletion of initial scan image at step 332.
+Step 333:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8078768253326416
+Step 334:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8031065464019775
+Step 335:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8050134181976318
+Step 336:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.808225154876709
+Step 337:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8093166351318359
+Preliminary deletion of initial scan image at step 337.
+Step 338:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8077850341796875
+Preliminary deletion of initial scan image at step 338.
+Step 339:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8052175045013428
+Preliminary deletion of initial scan image at step 339.
+Step 340:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8027000427246094
+Step 341:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8004648685455322
+Preliminary deletion of initial scan image at step 341.
+Step 342:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8069865703582764
+Preliminary deletion of initial scan image at step 342.
+Step 343:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8030452728271484
+Step 344:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8031108379364014
+Preliminary deletion of initial scan image at step 344.
+Step 345:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8043229579925537
+Preliminary deletion of initial scan image at step 345.
+Step 346:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8003883361816406
+Preliminary deletion of initial scan image at step 346.
+Step 347:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.799903392791748
+Preliminary deletion of initial scan image at step 347.
+Step 348:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8050386905670166
+Step 349:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8005781173706055
+Preliminary deletion of initial scan image at step 349.
+Step 350:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8020379543304443
+Preliminary deletion of initial scan image at step 350.
+Step 351:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8050930500030518
+Preliminary deletion of initial scan image at step 351.
+Step 352:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8050284385681152
+Preliminary deletion of initial scan image at step 352.
+Step 353:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8052263259887695
+Preliminary deletion of initial scan image at step 353.
+Step 354:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8011317253112793
+Step 355:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8055629730224609
+Step 356:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8089795112609863
+Preliminary deletion of initial scan image at step 356.
+Step 357:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8026940822601318
+Step 358:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8073782920837402
+Preliminary deletion of initial scan image at step 358.
+Step 359:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8046174049377441
+Preliminary deletion of initial scan image at step 359.
+Step 360:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8024380207061768
+Preliminary deletion of initial scan image at step 360.
+Step 361:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8094577789306641
+Preliminary deletion of initial scan image at step 361.
+Step 362:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8077883720397949
+Preliminary deletion of initial scan image at step 362.
+Step 363:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8040561676025391
+Preliminary deletion of initial scan image at step 363.
+Step 364:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8108105659484863
+Preliminary deletion of initial scan image at step 364.
+Step 365:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8089725971221924
+Preliminary deletion of initial scan image at step 365.
+Step 366:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8063161373138428
+Preliminary deletion of initial scan image at step 366.
+Step 367:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8062360286712646
+Preliminary deletion of initial scan image at step 367.
+Step 368:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8012051582336426
+Preliminary deletion of initial scan image at step 368.
+Step 369:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8079643249511719
+Step 370:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8051266670227051
+Step 371:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8052048683166504
+Step 372:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8051283359527588
+Step 373:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8072018623352051
+Step 374:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.80303955078125
+Preliminary deletion of initial scan image at step 374.
+Step 375:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8037772178649902
+Step 376:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8059995174407959
+Preliminary deletion of initial scan image at step 376.
+Step 377:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8056478500366211
+Preliminary deletion of initial scan image at step 377.
+Step 378:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8048582077026367
+Step 379:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8086402416229248
+Preliminary deletion of initial scan image at step 379.
+Step 380:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8091871738433838
+Step 381:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8049113750457764
+Step 382:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.806929349899292
+Preliminary deletion of initial scan image at step 382.
+Step 383:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8085801601409912
+Preliminary deletion of initial scan image at step 383.
+Step 384:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.8090629577636719
+Preliminary deletion of initial scan image at step 384.
+Step 385:
+Evaluation with grid 2.
+Clean image!
+
+Evaluation time:  0.805330753326416
+Preliminary deletion of initial scan image at step 385.
+Pre-selection finished. 5 images were annotated.
+Anomalous scan indices: 
+24 73 123 147 151 
+
+All saved scan steps:  [  5.   6.   7.  11.  14.  15.  16.  20.  22.  23.  27.  30.  32.  33.
+  38.  41.  43.  45.  50.  57.  58.  59.  62.  65.  67.  69.  72.  73.
+  78.  80.  84.  91.  99. 100. 101. 106. 109. 110. 111. 112. 118. 124.
+ 125. 129. 132. 133. 142. 145. 146. 149. 150. 152. 153. 156. 159. 165.
+ 168. 169. 172. 174. 176. 180. 182. 185. 190. 191. 202. 203. 206. 207.
+ 209. 210. 214. 216. 223. 225. 226. 235. 237. 238. 240. 245. 251. 255.
+ 260. 263. 270. 284. 286. 289. 291. 292. 295. 298. 300. 301. 310. 312.
+ 313. 318. 319. 320. 324. 330. 333. 334. 335. 336. 340. 343. 348. 354.
+ 355. 357. 369. 370. 371. 372. 373. 375. 378. 380. 381.]
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad34_step73.npy']
+Of those not annotated/normal:  [  5.   6.   7.  11.  14.  15.  16.  20.  22.  23.  27.  30.  32.  33.
+  38.  41.  43.  45.  50.  57.  58.  59.  62.  65.  67.  69.  72.  78.
+  80.  84.  91.  99. 100. 101. 106. 109. 110. 111. 112. 118. 124. 125.
+ 129. 132. 133. 142. 145. 146. 149. 150. 152. 153. 156. 159. 165. 168.
+ 169. 172. 174. 176. 180. 182. 185. 190. 191. 202. 203. 206. 207. 209.
+ 210. 214. 216. 223. 225. 226. 235. 237. 238. 240. 245. 251. 255. 260.
+ 263. 270. 284. 286. 289. 291. 292. 295. 298. 300. 301. 310. 312. 313.
+ 318. 319. 320. 324. 330. 333. 334. 335. 336. 340. 343. 348. 354. 355.
+ 357. 369. 370. 371. 372. 373. 375. 378. 380. 381.]
+Normals validation size:  38
+Normal scan steps that will be removed: [146.  38. 370. 168. 191. 185. 101. 373. 209. 176.  69.  99. 291. 150.
+ 348. 245.   7. 381. 336. 152. 312. 100. 206. 354.  15. 124.  11. 133.
+ 225. 159. 286.  57.  59.   5.  20. 263. 343. 301. 295.   6.  72. 223.
+ 203. 118. 292. 142.  16. 111. 333. 132. 375. 255. 300. 145.  45.  27.
+ 129.  80. 214. 106.  14. 202.  91.  33. 235. 172. 125. 372. 112. 169.
+ 240. 355. 156. 238.  67. 284. 207.  41. 153. 237.  78. 210.  22. 226.]
+Normal scan indices that were saved for validation: 
+[23.0, 30.0, 32.0, 43.0, 50.0, 58.0, 62.0, 65.0, 84.0, 109.0, 110.0, 149.0, 165.0, 174.0, 180.0, 182.0, 190.0, 216.0, 251.0, 260.0, 270.0, 289.0, 298.0, 310.0, 313.0, 318.0, 319.0, 320.0, 324.0, 330.0, 334.0, 335.0, 340.0, 357.0, 369.0, 371.0, 378.0, 380.0]
+
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad73_step146.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad28_step38.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad182_step370.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad75_step168.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad85_step191.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad90_step185.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad50_step101.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad180_step373.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad103_step209.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad95_step176.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad37_step69.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad65_step99.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad149_step291.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad69_step150.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad170_step348.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad114_step245.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad5_step7.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad195_step381.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad165_step336.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad68_step152.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad144_step312.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad51_step100.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad101_step206.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad174_step354.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad6_step15.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad57_step124.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad8_step11.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad64_step133.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad108_step225.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad67_step159.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad131_step286.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad23_step57.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad24_step59.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad4_step5.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad3_step20.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad139_step263.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad171_step343.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad152_step301.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad152_step295.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad4_step6.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad35_step72.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad109_step223.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad99_step203.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad52_step118.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad135_step292.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad76_step142.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad6_step16.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad43_step111.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad167_step333.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad63_step132.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad181_step375.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad122_step255.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad153_step300.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad74_step145.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad22_step45.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad11_step27.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad60_step129.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad29_step80.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad107_step214.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad47_step106.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad7_step14.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad98_step202.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad46_step91.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad16_step33.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad116_step235.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad78_step172.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad57_step125.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad181_step372.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad42_step112.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad76_step169.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad97_step240.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad175_step355.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad81_step156.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad98_step238.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad39_step67.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad144_step284.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad102_step207.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad16_step41.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad67_step153.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad99_step237.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad31_step78.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad104_step210.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad1_step22.npy']
+Removing  ['C:\\Users\\HexaScan_AI_user\\Desktop\\HexaScan_withAI\\outputs\\Production_LD_300_March24\\111244\\initial_scan_pad107_step226.npy']

@@ -1,0 +1,17 @@
+Campaign:Production_LD_300_March24
+DUT:111244
+Preselection:True
+Grid:2
+Threshold:-1
+DL:0
+GEOMETRY:custom_map_LD_Full_385
+N_images:385
+Scan started 
+Scan finished 
+Annotated images:5
+Starting validation 
+Starting cleaning 
+Starting cleaning 
+Starting cleaning 
+Starting cleaning 
+Program finished 
