@@ -17,12 +17,9 @@ One can
     1. Delete an image, if the image looks weird and only provides noise for the model.
     2. Remove/add anomaly boxes.
 
-<p align="center">
-  <video src="Documentation/Images/GUI_showcase.mp4" width="80%" height="auto" autoplay loop muted>
-  </video>
-</p>
+![](Documentation/Images/GUI_showcase_GIF.gif)
 
-The updated database could thereafter be used for the training of the new AI model and as a result, improved its performance compare to the previous model. 
+The updated database could thereafter be used for the training of the new AI model and as a result, improved its performance compared to the previous model. 
 
 ## Installation
 
