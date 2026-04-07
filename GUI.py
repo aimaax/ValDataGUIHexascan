@@ -452,7 +452,7 @@ if __name__ == "__main__":
     manual_seed(314)
     
     BATCH_SIZE = 1
-    ONLY_NON_VALIDATED_BOOLEAN = True
+    ONLY_NON_VALIDATED_BOOLEAN = False
     TEST_MODE = False
 
     ROOT_PATH = os.path.dirname(os.path.abspath(__file__))

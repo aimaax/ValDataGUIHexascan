@@ -39,8 +39,8 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 ### Running the GUI
 ```bash
-git clone https://<username>@github.com/aimaax/guihexascan
-cd guihexascan
+git clone https://<username>@github.com/aimaax/validation-anomaly-data-gui
+cd validation-anomaly-data-gui
 uv run GUI.py
 ```
 
